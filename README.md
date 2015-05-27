@@ -4,6 +4,30 @@
 
 This file contains all [HGNC](http://www.genenames.org/) gene symbols and their respective gene regions based on the hg19 genome build.
 
+## Sample snippets
+
+### head
+
+```
+chr1  11873 14409 DDX11L1
+chr1  14361 29370 WASH7P
+chr1  69090 70008 OR4F5
+chr1  562759  564389  LOC101928626
+chr1  567704  567793  MIR6723
+chr1  700244  714068  LOC100288069
+```
+
+### tail
+
+```
+chrM  10759 12136 MT-ND4
+chrM  12137 12205 MT-TH
+chrM  12336 14147 MT-ND5
+chrM  14148 14672 MT-ND6
+chrM  14673 14741 MT-TE
+chrM  14746 15886 MT-CYB
+```
+
 ## How was this file generated?
 
 ### Gene regions for chr1-22, chrX, and chrY
